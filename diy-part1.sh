@@ -32,14 +32,4 @@ git clone https://github.com/fw876/helloworld.git package/helloworld
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 # 主题
 git clone https://github.com/kenzok8/luci-theme-ifit.git package/luci-theme-ifit
-git clone https://github.com/solidus1983/luci-theme-opentomato.git package/luci-theme-opentomato
-git clone https://github.com/Leo-Jo-My/luci-theme-opentomcat.git package/luci-theme-opentomcat
-# 其它
-git clone https://github.com/gdck/luci-app-control-weburl.git package/luci-app-control-weburl
-git clone https://github.com/garypang13/luci-app-dnsfilter.git package/luci-app-dnsfilter
-git clone https://github.com/tty228/luci-app-serverchan.git package/luci-app-serverchan
-git clone https://github.com/honwen/luci-app-aliddns.git package/luci-app-aliddns
-git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
-git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/luci-app-unblockneteasemusic
-#  关机
-git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-app-poweroff
+
