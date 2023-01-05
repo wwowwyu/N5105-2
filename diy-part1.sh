@@ -21,8 +21,5 @@
 sed -i '$a src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf.default
 sed -i '$a src-git small https://github.com/kenzok8/small' feeds.conf.default
 
-# 添加新源
-git clone https://github.com/sbwml/luci-app-alist package/alist
-
 #  关机
 git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-app-poweroff
